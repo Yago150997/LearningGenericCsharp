@@ -12,3 +12,17 @@ C:\Users\yagog\Downloads\Pessoal\C#\Capitulo 15\HigherPriceProduct\HigherPricePr
 C:\Users\yagog\Downloads\Pessoal\C#\Capitulo 15\HigherPriceProduct\HigherPriceProduct\obj\Debug\netcoreapp3.1\HigherPriceProduct.dll
 C:\Users\yagog\Downloads\Pessoal\C#\Capitulo 15\HigherPriceProduct\HigherPriceProduct\obj\Debug\netcoreapp3.1\HigherPriceProduct.pdb
 C:\Users\yagog\Downloads\Pessoal\C#\Capitulo 15\HigherPriceProduct\HigherPriceProduct\obj\Debug\netcoreapp3.1\HigherPriceProduct.genruntimeconfig.cache
+C:\Users\yagog\Downloads\Pessoal\C#\Programas\Capitulo 15\HigherPriceProduct\HigherPriceProduct\bin\Debug\netcoreapp3.1\HigherPriceProduct.exe
+C:\Users\yagog\Downloads\Pessoal\C#\Programas\Capitulo 15\HigherPriceProduct\HigherPriceProduct\bin\Debug\netcoreapp3.1\HigherPriceProduct.deps.json
+C:\Users\yagog\Downloads\Pessoal\C#\Programas\Capitulo 15\HigherPriceProduct\HigherPriceProduct\bin\Debug\netcoreapp3.1\HigherPriceProduct.runtimeconfig.json
+C:\Users\yagog\Downloads\Pessoal\C#\Programas\Capitulo 15\HigherPriceProduct\HigherPriceProduct\bin\Debug\netcoreapp3.1\HigherPriceProduct.runtimeconfig.dev.json
+C:\Users\yagog\Downloads\Pessoal\C#\Programas\Capitulo 15\HigherPriceProduct\HigherPriceProduct\bin\Debug\netcoreapp3.1\HigherPriceProduct.dll
+C:\Users\yagog\Downloads\Pessoal\C#\Programas\Capitulo 15\HigherPriceProduct\HigherPriceProduct\bin\Debug\netcoreapp3.1\HigherPriceProduct.pdb
+C:\Users\yagog\Downloads\Pessoal\C#\Programas\Capitulo 15\HigherPriceProduct\HigherPriceProduct\obj\Debug\netcoreapp3.1\HigherPriceProduct.csproj.AssemblyReference.cache
+C:\Users\yagog\Downloads\Pessoal\C#\Programas\Capitulo 15\HigherPriceProduct\HigherPriceProduct\obj\Debug\netcoreapp3.1\HigherPriceProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagog\Downloads\Pessoal\C#\Programas\Capitulo 15\HigherPriceProduct\HigherPriceProduct\obj\Debug\netcoreapp3.1\HigherPriceProduct.AssemblyInfoInputs.cache
+C:\Users\yagog\Downloads\Pessoal\C#\Programas\Capitulo 15\HigherPriceProduct\HigherPriceProduct\obj\Debug\netcoreapp3.1\HigherPriceProduct.AssemblyInfo.cs
+C:\Users\yagog\Downloads\Pessoal\C#\Programas\Capitulo 15\HigherPriceProduct\HigherPriceProduct\obj\Debug\netcoreapp3.1\HigherPriceProduct.csproj.CoreCompileInputs.cache
+C:\Users\yagog\Downloads\Pessoal\C#\Programas\Capitulo 15\HigherPriceProduct\HigherPriceProduct\obj\Debug\netcoreapp3.1\HigherPriceProduct.dll
+C:\Users\yagog\Downloads\Pessoal\C#\Programas\Capitulo 15\HigherPriceProduct\HigherPriceProduct\obj\Debug\netcoreapp3.1\HigherPriceProduct.pdb
+C:\Users\yagog\Downloads\Pessoal\C#\Programas\Capitulo 15\HigherPriceProduct\HigherPriceProduct\obj\Debug\netcoreapp3.1\HigherPriceProduct.genruntimeconfig.cache

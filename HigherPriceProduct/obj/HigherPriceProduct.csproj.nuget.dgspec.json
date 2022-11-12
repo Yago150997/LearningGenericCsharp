@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yagog\\Downloads\\Pessoal\\C#\\Capitulo 15\\HigherPriceProduct\\HigherPriceProduct\\HigherPriceProduct.csproj": {}
+    "C:\\Users\\yagog\\Downloads\\Pessoal\\C#\\Programas\\Capitulo 15\\HigherPriceProduct\\HigherPriceProduct\\HigherPriceProduct.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yagog\\Downloads\\Pessoal\\C#\\Capitulo 15\\HigherPriceProduct\\HigherPriceProduct\\HigherPriceProduct.csproj": {
+    "C:\\Users\\yagog\\Downloads\\Pessoal\\C#\\Programas\\Capitulo 15\\HigherPriceProduct\\HigherPriceProduct\\HigherPriceProduct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yagog\\Downloads\\Pessoal\\C#\\Capitulo 15\\HigherPriceProduct\\HigherPriceProduct\\HigherPriceProduct.csproj",
+        "projectUniqueName": "C:\\Users\\yagog\\Downloads\\Pessoal\\C#\\Programas\\Capitulo 15\\HigherPriceProduct\\HigherPriceProduct\\HigherPriceProduct.csproj",
         "projectName": "HigherPriceProduct",
-        "projectPath": "C:\\Users\\yagog\\Downloads\\Pessoal\\C#\\Capitulo 15\\HigherPriceProduct\\HigherPriceProduct\\HigherPriceProduct.csproj",
+        "projectPath": "C:\\Users\\yagog\\Downloads\\Pessoal\\C#\\Programas\\Capitulo 15\\HigherPriceProduct\\HigherPriceProduct\\HigherPriceProduct.csproj",
         "packagesPath": "C:\\Users\\yagog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yagog\\Downloads\\Pessoal\\C#\\Capitulo 15\\HigherPriceProduct\\HigherPriceProduct\\obj\\",
+        "outputPath": "C:\\Users\\yagog\\Downloads\\Pessoal\\C#\\Programas\\Capitulo 15\\HigherPriceProduct\\HigherPriceProduct\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
