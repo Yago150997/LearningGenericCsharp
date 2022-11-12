@@ -1,6 +1,7 @@
 ﻿using HigherPriceProduct.Entities;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 
 namespace HigherPriceProduct
 {
@@ -8,24 +9,28 @@ namespace HigherPriceProduct
     {
         static void Main(string[] args)
         {
-            List<int> list = new List<int>();
+            List<Product> list = new List<Product>();
 
-            Console.WriteLine("How many Numbers? ");
+            Console.WriteLine("Enter number of products ");
             
             Console.Write("Answer: ");
             int N = int.Parse(Console.ReadLine());
 
-            CalculationService calculation = new CalculationService();
-
             for (int i = 0; i < N; i++)
             {
-                Console.Write("Digit a number: ");
-                int number = int.Parse(Console.ReadLine());
+                Console.Write("Digit the product's name and price: ");
+                string[] NameandPrice = Console.ReadLine().Split(",");
+                double price = double.Parse(NameandPrice[1], CultureInfo.InvariantCulture);
 
-                list.Add(number);
+                list.Add(new Product(NameandPrice[0], price));
             }
 
-            Console.WriteLine("Higher number is: " + calculation.Max(list));
+            CalculationService calculation = new CalculationService();
+
+            Product p = calculation.Max(list);
+
+            Console.Write("Most expensive product is: ");
+            Console.WriteLine(p);
         }
     }
 }
